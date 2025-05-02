@@ -15,7 +15,7 @@
         android:id="@+id/include_input"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Ingredient names..."
+        android:hint="Ingredient Names..."
         android:inputType="text"/>
 
     <TextView
@@ -28,6 +28,6 @@
         android:id="@+id/exclude_input"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Ingredient names..."
+        android:hint="Ingredient Names..."
         android:inputType="text"/>
 </LinearLayout>

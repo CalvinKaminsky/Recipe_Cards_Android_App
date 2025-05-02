@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorPrimary">#5A2595</color>
+    <color name="colorOnPrimary">#000000</color>
+    <color name="colorSecondary">#E91E63</color>
+    <color name="colorOnSecondary">#E91E63</color>
+    <color name="colorBackground">#CBADEB</color>
+    <color name="colorOnBackground">#E91E63</color>
+    <color name="colorSurface">#5A2595</color>
+    <color name="colorOnSurface">#E91E63</color>
 </resources>

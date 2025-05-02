@@ -7,17 +7,17 @@
     <string name="edit_recipe">Edit Recipe</string>
     <string name="ingredient_hint">Ingredient</string>
     <string name="measure_hint">Measure</string>
-    <string name="recipe_image">Recipe image</string>
-    <string name="recipe_name">Recipe name</string>
-    <string name="add_recipe">Add recipe</string>
+    <string name="recipe_image">Recipe Image</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="add_recipe">Add Recipe</string>
     <string name="description_hint">Description</string>
     <string name="notes_hint">Notes</string>
     <string name="steps_hint">Steps</string>
     <string name="servings_hint">Servings</string>
     <string name="ingredients_label">Ingredients</string>
     <string name="save_recipe">Save</string>
-    <string name="delete_recipe">Delete recipe</string>
+    <string name="delete_recipe">Delete Recipe</string>
     <string name="search">Search</string>
-    <string name="search_recipes">Search recipes…</string>
+    <string name="search_recipes">Search Recipes…</string>
     <string name="filters">Filters</string>
 </resources>
